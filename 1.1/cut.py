@@ -47,7 +47,5 @@ def cut_once(list_input):
             break
         else:
             continue
-        # print(if_ok(point0, list_input[i], point1))
-    print('___+++___')
     print(get_triangle)
     return get_triangle
